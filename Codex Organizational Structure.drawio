@@ -1,27 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T10:42:40.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="sdKhNoXAF2Y6oHM6o9qD" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T11:50:28.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="RolOjvTCxUty4xRvxDZS" version="21.6.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2227" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="70" width="710" height="970" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;aspect=fixed;gradientColor=none;swimlaneFillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="-70" width="2626.8" height="1300" as="geometry" />
         </mxCell>
         <UserObject label="Adams Faisal&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Community Founder/Owner&lt;/i&gt;&lt;/font&gt;&lt;br&gt;adamsfaisal2003@gmail.com" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="40" width="230" height="70" as="geometry" />
+            <mxGeometry x="831" y="110" width="230" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Wzb5SHQhx_5e0W50M0eX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.45;entryY=1.115;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-14" target="Wzb5SHQhx_5e0W50M0eX-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="413" />
+              <mxPoint x="921" y="483" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Wzb5SHQhx_5e0W50M0eX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.471;entryY=-0.082;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-14" target="Wzb5SHQhx_5e0W50M0eX-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;&quot;&gt;&lt;font color=&quot;#808080&quot;&gt;Assistant&amp;nbsp;General Community Manager&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="435" width="180" height="80" as="geometry" />
+            <mxGeometry x="831" y="505" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0.636;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
@@ -32,15 +35,41 @@
         </mxCell>
         <UserObject label="Olaleye Abdulrahman&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;General Community Maneger&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="230" width="180" height="80" as="geometry" />
+            <mxGeometry x="831" y="300" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Wzb5SHQhx_5e0W50M0eX-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;General Community Group&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=default;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="219" y="350" width="290" height="40" as="geometry" />
+          <mxGeometry x="790" y="420" width="290" height="40" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
+        <mxCell id="Wzb5SHQhx_5e0W50M0eX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.468;entryY=1.058;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-18" target="Wzb5SHQhx_5e0W50M0eX-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wzb5SHQhx_5e0W50M0eX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-18" target="Wzb5SHQhx_5e0W50M0eX-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Sub Group Community Manager&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="480" y="210" width="180" height="80" as="geometry" />
+            <mxGeometry x="831" y="750" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Sub Group Team leads&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="Wzb5SHQhx_5e0W50M0eX-10">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="830" y="910" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Wzb5SHQhx_5e0W50M0eX-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Community Sub Grougps&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="790" y="644.5" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wzb5SHQhx_5e0W50M0eX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="Wzb5SHQhx_5e0W50M0eX-35" source="Wzb5SHQhx_5e0W50M0eX-10" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="551" y="760" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Sub Assistant Team leads&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="Wzb5SHQhx_5e0W50M0eX-35">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="830" y="1030" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
